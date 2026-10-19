@@ -11,11 +11,11 @@ Aufbau einer neuen IT-Infrastruktur (Windows Server, Active Directory, Dateifrei
 - [Ziele](#ziele)
 
 ## Configuration
-- [Linux](https://github.com/Joshua-bat/Projekt-Zahnarztpraxis/tree/d5f8dcbb3d193ecb02bfca11feee7db27db5c828/Linux)
+- [Linux](https://github.com/Joshua-bat/Projekt-Zahnarztpraxis/tree/main/Linux)
 - [Docker](https://github.com/Joshua-bat/Projekt-Zahnarztpraxis/tree/main/Docker)
-- [Windows](https://github.com/Joshua-bat/Projektarbeit/tree/e6b3d42ca9ea1e6fa8d31da2c570cc0d233e0f79/Windows%20)
-- [Firewall](https://github.com/Joshua-bat/Projekt-Zahnarztpraxis/tree/d5f8dcbb3d193ecb02bfca11feee7db27db5c828/Firewall)
-- [Nextcloud](https://github.com/Joshua-bat/Projekt-Zahnarztpraxis/tree/d5f8dcbb3d193ecb02bfca11feee7db27db5c828/Nextcloud)
+- [Windows](https://github.com/Joshua-bat/Projekt-Zahnarztpraxis/tree/main/Windows)
+- [Firewall](https://github.com/Joshua-bat/Projekt-Zahnarztpraxis/tree/main/Firewall)
+- [Nextcloud](https://github.com/Joshua-bat/Projekt-Zahnarztpraxis/tree/main/Nextcloud)
   
 ## Ausgangslage & Auftrag
 
