@@ -1,0 +1,4 @@
+include:
+  - nginx/npm-compose.yml
+  - nextcloud/nexcloud-compose.yml
+  - portainer/portainer-compose.yml
