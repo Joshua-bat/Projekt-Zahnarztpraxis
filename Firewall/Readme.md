@@ -6,7 +6,7 @@
 
 <p>After booting IPFire you will see the <strong>Network Configuration Menu</strong>. The current configuration is shown at the top (<code>GREEN + RED</code>). Work through the menu from top to bottom:</p>
 
-<img src="https://github.com/Joshua-bat/IHK-FISI-2026/blob/c7b3dbf9a7c59965819b73be4c42a707837a5c87/doc/images/IPFire_configuration.png" width="700" />
+<img src="https://github.com/Joshua-bat/Projekt-Zahnarztpraxis/tree/main/doc/images/IPFire_configuration.png" width="700" />
 
 <h3>Step 2 — Type of Network Configuration</h3>
 
